@@ -1,4 +1,4 @@
-# AdvancedComputerGraphicsReport
+# Advanced Computer Graphics (CS-440) Report
 
 This repository shows the report for the project made in CS-440 at EPFL (Spring 2020). 
 The report is a webpage *project/report.html*.
